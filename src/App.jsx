@@ -1,11 +1,11 @@
 import './App.css'
-import feedbackComponent from './components/components.jsx'
+import FeedbackComponent from './components/Components.jsx'
 
 function App () {
 
   return (
       <>
-      <feedbackComponent/>
+      <FeedbackComponent/>
       </>
     )
 }
